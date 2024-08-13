@@ -12,8 +12,11 @@ The returned function can then be used to replace city names in any given text w
 The project has the following structure:
 
 /project-root
+
 │
+
 ├── index.html
+
 └── main.js
 
 
